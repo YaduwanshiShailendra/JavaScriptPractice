@@ -1,0 +1,454 @@
+
+[
+  {
+    "Year": 2018,
+    "Ranking": 1,
+    "Name": "Osteria Francescana",
+    "City": "Modena",
+    "Country": "Italy",
+    "Latitude": 44.6431,
+    "Longitude": 10.9341
+  },
+  {
+    "Year": 2018,
+    "Ranking": 2,
+    "Name": "El Celler de Can Roca",
+    "City": "Girona",
+    "Country": "Spain",
+    "Latitude": 41.9808,
+    "Longitude": 2.8187
+  },
+  {
+    "Year": 2018,
+    "Ranking": 3,
+    "Name": "Mirazur",
+    "City": "Menton",
+    "Country": "France",
+    "Latitude": 43.7747,
+    "Longitude": 7.5046
+  },
+  {
+    "Year": 2018,
+    "Ranking": 4,
+    "Name": "Eleven Madison Park",
+    "City": "New York",
+    "Country": "USA",
+    "Latitude": 40.7146,
+    "Longitude": -74.0071
+  },
+  {
+    "Year": 2018,
+    "Ranking": 5,
+    "Name": "Gaggan",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.75,
+    "Longitude": 100.516
+  },
+  {
+    "Year": 2018,
+    "Ranking": 6,
+    "Name": "Central",
+    "City": "Lima",
+    "Country": "Peru",
+    "Latitude": -12.043,
+    "Longitude": -77.028
+  },
+  {
+    "Year": 2018,
+    "Ranking": 7,
+    "Name": "Maido",
+    "City": "Lima",
+    "Country": "Peru",
+    "Latitude": -12.043,
+    "Longitude": -77.028
+  },
+  {
+    "Year": 2018,
+    "Ranking": 8,
+    "Name": "Arp�ge",
+    "City": "Paris",
+    "Country": "France",
+    "Latitude": 48.8569,
+    "Longitude": 2.3412
+  },
+  {
+    "Year": 2018,
+    "Ranking": 9,
+    "Name": "Mugaritz",
+    "City": "San Sebastian",
+    "Country": "Spain",
+    "Latitude": 43.3174,
+    "Longitude": -1.9784
+  },
+  {
+    "Year": 2018,
+    "Ranking": 10,
+    "Name": "Asador Etxebarri",
+    "City": "Axpe",
+    "Country": "Spain",
+    "Latitude": 43.13,
+    "Longitude": -2.583611
+  },
+  {
+    "Year": 2018,
+    "Ranking": 11,
+    "Name": "Quintonil",
+    "City": "Mexico City",
+    "Country": "Mexico",
+    "Latitude": 19.4285,
+    "Longitude": -99.1277
+  },
+  {
+    "Year": 2018,
+    "Ranking": 12,
+    "Name": "Blue Hill at Stone Barns",
+    "City": "Pocantico Hills",
+    "Country": "USA",
+    "Latitude": 41.094444,
+    "Longitude": -73.835833
+  },
+  {
+    "Year": 2018,
+    "Ranking": 13,
+    "Name": "Pujol",
+    "City": "Mexico City",
+    "Country": "Mexico",
+    "Latitude": 19.4285,
+    "Longitude": -99.1277
+  },
+  {
+    "Year": 2018,
+    "Ranking": 14,
+    "Name": "Steirereck",
+    "City": "Vienna",
+    "Country": "Austria",
+    "Latitude": 48.2025,
+    "Longitude": 16.3688
+  },
+  {
+    "Year": 2018,
+    "Ranking": 15,
+    "Name": "White Rabbit",
+    "City": "Moscow",
+    "Country": "Russia",
+    "Latitude": 55.752,
+    "Longitude": 37.615
+  },
+  {
+    "Year": 2018,
+    "Ranking": 16,
+    "Name": "Piazza Duomo",
+    "City": "Alba",
+    "Country": "Italy",
+    "Latitude": 44.6961,
+    "Longitude": 8.0341
+  },
+  {
+    "Year": 2018,
+    "Ranking": 17,
+    "Name": "Den",
+    "City": "Tokyo",
+    "Country": "Japan",
+    "Latitude": 35.6249,
+    "Longitude": 139.5856
+  },
+  {
+    "Year": 2018,
+    "Ranking": 18,
+    "Name": "Disfrutar",
+    "City": "Barcelona",
+    "Country": "Spain",
+    "Latitude": 41.3875,
+    "Longitude": 2.1684
+  },
+  {
+    "Year": 2018,
+    "Ranking": 19,
+    "Name": "Geranium",
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "Latitude": 55.675,
+    "Longitude": 12.565
+  },
+  {
+    "Year": 2018,
+    "Ranking": 20,
+    "Name": "Attica",
+    "City": "Melbourne",
+    "Country": "Australia",
+    "Latitude": -37.814,
+    "Longitude": 144.963
+  },
+  {
+    "Year": 2018,
+    "Ranking": 21,
+    "Name": "Alain Ducasse au Plaza Ath�n�e",
+    "City": "Paris",
+    "Country": "France",
+    "Latitude": 48.8569,
+    "Longitude": 2.3412
+  },
+  {
+    "Year": 2018,
+    "Ranking": 22,
+    "Name": "Narisawa",
+    "City": "Tokyo",
+    "Country": "Japan",
+    "Latitude": 35.6249,
+    "Longitude": 139.5856
+  },
+  {
+    "Year": 2018,
+    "Ranking": 23,
+    "Name": "Le Calandre",
+    "City": "Rubano",
+    "Country": "Italy",
+    "Latitude": 45.433333,
+    "Longitude": 11.783333
+  },
+  {
+    "Year": 2018,
+    "Ranking": 24,
+    "Name": "Ultraviolet by Paul Pairet",
+    "City": "Shanghai",
+    "Country": "China",
+    "Latitude": 31.222,
+    "Longitude": 121.458
+  },
+  {
+    "Year": 2018,
+    "Ranking": 25,
+    "Name": "Cosme",
+    "City": "New York",
+    "Country": "USA",
+    "Latitude": 40.7146,
+    "Longitude": -74.0071
+  },
+  {
+    "Year": 2018,
+    "Ranking": 26,
+    "Name": "Le Bernardin",
+    "City": "New York",
+    "Country": "USA",
+    "Latitude": 40.7146,
+    "Longitude": -74.0071
+  },
+  {
+    "Year": 2018,
+    "Ranking": 27,
+    "Name": "Borag�",
+    "City": "Santiago",
+    "Country": "Chile",
+    "Latitude": -33.426,
+    "Longitude": -70.566
+  },
+  {
+    "Year": 2018,
+    "Ranking": 28,
+    "Name": "Odette",
+    "City": "Singapore",
+    "Country": "Singapore",
+    "Latitude": 1.289,
+    "Longitude": 103.85
+  },
+  {
+    "Year": 2018,
+    "Ranking": 29,
+    "Name": "All�no Paris au Pavillon Ledoyen",
+    "City": "Paris",
+    "Country": "France",
+    "Latitude": 48.8569,
+    "Longitude": 2.3412
+  },
+  {
+    "Year": 2018,
+    "Ranking": 30,
+    "Name": "D.O.M.",
+    "City": "S�o Paulo",
+    "Country": "Brazil",
+    "Latitude": -23.547,
+    "Longitude": -46.636
+  },
+  {
+    "Year": 2018,
+    "Ranking": 31,
+    "Name": "Arzak",
+    "City": "San Sebastian",
+    "Country": "Spain",
+    "Latitude": 43.3174,
+    "Longitude": -1.9784
+  },
+  {
+    "Year": 2018,
+    "Ranking": 32,
+    "Name": "Tickets",
+    "City": "Barcelona",
+    "Country": "Spain",
+    "Latitude": 41.3875,
+    "Longitude": 2.1684
+  },
+  {
+    "Year": 2018,
+    "Ranking": 33,
+    "Name": "The Clove Club",
+    "City": "London",
+    "Country": "UK",
+    "Latitude": 51.5064,
+    "Longitude": -0.1272
+  },
+  {
+    "Year": 2018,
+    "Ranking": 34,
+    "Name": "Alinea",
+    "City": "Chicago",
+    "Country": "USA",
+    "Latitude": 41.8843,
+    "Longitude": -87.6324
+  },
+  {
+    "Year": 2018,
+    "Ranking": 35,
+    "Name": "Maaemo",
+    "City": "Oslo",
+    "Country": "Norway",
+    "Latitude": 59.912,
+    "Longitude": 10.746
+  },
+  {
+    "Year": 2018,
+    "Ranking": 36,
+    "Name": "Reale",
+    "City": "Castel di Sangro",
+    "Country": "Italy",
+    "Latitude": 41.783333,
+    "Longitude": 14.1
+  },
+  {
+    "Year": 2018,
+    "Ranking": 37,
+    "Name": "Restaurant Tim Raue",
+    "City": "Berlin",
+    "Country": "Germany",
+    "Latitude": 52.5161,
+    "Longitude": 13.377
+  },
+  {
+    "Year": 2018,
+    "Ranking": 38,
+    "Name": "Lyle's",
+    "City": "London",
+    "Country": "UK",
+    "Latitude": 51.5064,
+    "Longitude": -0.1272
+  },
+  {
+    "Year": 2018,
+    "Ranking": 39,
+    "Name": "Astrid y Gast�n",
+    "City": "Lima",
+    "Country": "Peru",
+    "Latitude": -12.043,
+    "Longitude": -77.028
+  },
+  {
+    "Year": 2018,
+    "Ranking": 40,
+    "Name": "Septime",
+    "City": "Paris",
+    "Country": "France",
+    "Latitude": 48.8569,
+    "Longitude": 2.3412
+  },
+  {
+    "Year": 2018,
+    "Ranking": 41,
+    "Name": "Nihonryori RyuGin",
+    "City": "Tokyo",
+    "Country": "Japan",
+    "Latitude": 35.6249,
+    "Longitude": 139.5856
+  },
+  {
+    "Year": 2018,
+    "Ranking": 42,
+    "Name": "The Ledbury",
+    "City": "London",
+    "Country": "UK",
+    "Latitude": 51.5064,
+    "Longitude": -0.1272
+  },
+  {
+    "Year": 2018,
+    "Ranking": 43,
+    "Name": "Azurmendi",
+    "City": "Larrabetzu",
+    "Country": "Spain",
+    "Latitude": 43.261944,
+    "Longitude": -2.794722
+  },
+  {
+    "Year": 2018,
+    "Ranking": 44,
+    "Name": "Mikla",
+    "City": "Istanbul",
+    "Country": "Turkey",
+    "Latitude": 41.013,
+    "Longitude": 28.949
+  },
+  {
+    "Year": 2018,
+    "Ranking": 45,
+    "Name": "Dinner by Heston Blumenthal",
+    "City": "London",
+    "Country": "UK",
+    "Latitude": 51.5064,
+    "Longitude": -0.1272
+  },
+  {
+    "Year": 2018,
+    "Ranking": 46,
+    "Name": "Saison",
+    "City": "San Francisco",
+    "Country": "USA",
+    "Latitude": 37.7771,
+    "Longitude": -122.4196
+  },
+  {
+    "Year": 2018,
+    "Ranking": 47,
+    "Name": "Schloss Schauenstein",
+    "City": "F�rstenau",
+    "Country": "Switzerland",
+    "Latitude": 46.716667,
+    "Longitude": 9.433333
+  },
+  {
+    "Year": 2018,
+    "Ranking": 48,
+    "Name": "Hi%u0161a Franko",
+    "City": "Kobarid",
+    "Country": "Slovenia",
+    "Latitude": 46.246436,
+    "Longitude": 13.578006
+  },
+  {
+    "Year": 2018,
+    "Ranking": 49,
+    "Name": "Nahm",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.75,
+    "Longitude": 100.516
+  },
+  {
+    "Year": 2018,
+    "Ranking": 50,
+    "Name": "The Test Kitchen",
+    "City": "Cape Town",
+    "Country": "South Africa",
+    "Latitude": -33.916,
+    "Longitude": 18.416
+  }
+]
+
